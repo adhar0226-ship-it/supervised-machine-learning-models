@@ -1,4 +1,4 @@
-# Week 2 Task: Supervised Machine Learning Models
+# Supervised Machine Learning Models
 
 This repository contains the implementation, training, evaluation, and comparative performance analysis of various **Supervised Machine Learning Models** using Python and Scikit-learn.
 
